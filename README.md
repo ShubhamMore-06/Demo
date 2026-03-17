@@ -1,4 +1,4 @@
 # Demo
 This is my first repository
 <br>
-Author Shubham More
+Author Shubham (student)
